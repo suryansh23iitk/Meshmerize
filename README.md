@@ -116,6 +116,7 @@ Everything is contained in `main.ino` (ESP32 Arduino code).
 ## 📝 Credits
 
 * Code written by \[Rahul Singh/Suryansh Rastogi/Lipika Bagai].
+* Hardware created by \[Golden Kumar]
 * Event held as part of Techfest, IIT Bombay—Zonals in Jaipur (Oct 2024) 
 * Meshmerize: line-follower maze competition requiring mapping then fastest final run
 * Gold Medal achieved—congratulations once more!
